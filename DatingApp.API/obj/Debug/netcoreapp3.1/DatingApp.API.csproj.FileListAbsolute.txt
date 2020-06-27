@@ -49,3 +49,7 @@ D:\DotNet\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityMode
 D:\DotNet\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 D:\DotNet\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\DotNet\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DotNet\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet\DatingApp\DatingAPP.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
