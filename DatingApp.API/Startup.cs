@@ -13,6 +13,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Cors;
+using System.IdentityModel.Tokens.Jwt;
 
 namespace DatingApp.API
 {
@@ -33,6 +34,8 @@ namespace DatingApp.API
             ));
             services.AddControllers();
             services.AddCors();
+            services.AddScoped<IAuthRepsitoty,AuthRepositoty>();
+            
             
         }
 
